@@ -17,6 +17,8 @@ I was enlightened by [a paper][brant_paper]. I had never seriously thought
 about the relation between cosmic reionization and the star formation
 information of z~6-8 quasars.
 
+中文也应该可以输入！
+
 [planck_publication]:http://www.cosmos.esa.int/web/planck/publications
 [Sean_post]:http://www.preposterousuniverse.com/blog/2015/02/06/the-state-of-the-early-universe/ 
 [brant_paper]:http://arxiv.org/abs/1502.02024v1
