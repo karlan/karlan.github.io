@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This blog is only about research. Any use of the content requires citation.
+This blog is only about research. I will keep it in English.
