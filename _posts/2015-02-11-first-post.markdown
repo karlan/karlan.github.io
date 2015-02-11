@@ -11,7 +11,7 @@ a discussion this morning on paper XIII cosmological parameters. My impression
 is that the LCDM model works perfectly. Yes, we had downsized the errors, but
 everything looks so great that we can barely do any thing big. Though there is
 some tension (for example, cluster counts are discrepant with the Planck
-results, leading different values for \\( \simga _8 \\) ).
+results, leading different values for \\( \sigma _8 \\) ).
 
 I was enlightened by [a paper][brant_paper]. I had never seriously thought
 about the relation between cosmic reionization and the star formation
