@@ -6,10 +6,10 @@ categories: linux
 ---
 [AWESOME][awesome_dm] is my current desktop manager. Personally I hate to use
 mouse to click some stupid buttons on the screen. It's inefficient and looks
-silly. Though I still have a trackball in hand (I still need to draw some
+silly. Though there is still a trackball in hand (still need to draw some
 pictures and play with some interactive programs), I communicate with my
-computers via keyboard in 90% of my time. (BTW: For webpage browsing, I use
-[vimperator][vimperator] add-on for Firefox and [VimiumPlus][VimiumPlus] for Chrome)
+computers via keyboard in 90% of my time. (BTW: For webpage browsing,
+[vimperator][vimperator] add-on can be used for Firefox and [VimiumPlus][VimiumPlus] for Chrome)
 
 Just some notes about configurations:
 
@@ -57,7 +57,7 @@ In some cases, you will find "_" can not be displayed properly, you need change
 
 ## Internet: nmcli
 
-I cannot revoke the NetworkManager Applet in my AWESOME. I have two quick solutions: (1) I can use my android phone to make a USB tether; (2) I can use nmcli, which is the command line verison of NetworkManager
+I cannot revoke the NetworkManager Applet in my AWESOME. Two quick solutions: (1) use an android phone to make a USB tether; (2) use nmcli, which is the command line verison of NetworkManager
 
 * To check whether NetworkManager is running, type
 ```
