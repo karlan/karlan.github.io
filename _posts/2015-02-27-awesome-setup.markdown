@@ -72,12 +72,13 @@ I cannot revoke the NetworkManager Applet in my AWESOME. I have two quick soluti
 ```
     nmcli connection list
 ```
-* To connect a network named "mynet"
+* To connect a network named `mynet`
+
 ```
    nmcli -p con up id "mynet"
 ```
 
-That's it.
+Now you are connected :)
 
 
 [awesome_dm]:http://awesome.naquadah.org/
