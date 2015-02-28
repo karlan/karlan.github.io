@@ -22,7 +22,7 @@ use
 ```
 to update your Xterm configuration (you can insert it into your .bashrc or .cshrc file). Below is a sample file based on my .Xresource file, it works great for both English and Chinese fonts.
 
-{% highlight %}
+{% highlight python%}
 !look and feel
 xterm.termName: xterm-256color
 xterm.geometry: 80x36
@@ -50,7 +50,7 @@ xterm*faceNameDoublesize:WenQuanYi Zen Hei Mono:antialias=True:pixelsize=13
 xterm*xftAntialias: true
 xterm.cjkWidth:true
 XTerm*preeditType: Root
-{% highlight %}
+{% highlight python%}
 
 In some cases, you will find "_" can not be displayed properly, you need change
 `Monspace` to `luxi mono` (as shown above)
