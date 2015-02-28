@@ -68,13 +68,10 @@ I cannot revoke the NetworkManager Applet in my AWESOME. I have two quick soluti
     nmcli -t -f STATE nm
 ```
 * To show avaliable network, type
-
 ```
     nmcli connection list
 ```
-
 * To connect a network named `mynet`
-
 ```
    nmcli -p con up id mynet
 ```
