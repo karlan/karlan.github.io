@@ -5,7 +5,7 @@ date:   2015-03-10 16:27:00
 categories: discussion
 ---
 
-OK, FITS World Coordinate System (WCS)
+OK, FITS World Coordinate System (WCS) (to be update later ...)
 
 
 To get the plate scale/pixel scale
