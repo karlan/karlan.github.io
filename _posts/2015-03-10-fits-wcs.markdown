@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "FITS WCS"
+date:   2015-03-10 16:27:00
+categories: discussion
+---
+
+OK, FITS World Coordinate System (WCS)
+
+
+To get the plate scale/pixel scale
+{% highlight python %}
+image = readfile(yourfile,h,/silent)
+extast, h, astr
+getrot, astr, tot, cdelt
+cdelt = 3600*cdelt  ; convert to arcsec
+print,cdelt
+{% endhighlight %}
