@@ -16,3 +16,6 @@ getrot, astr, tot, cdelt
 cdelt = 3600*cdelt  ; convert to arcsec
 print,cdelt
 {% endhighlight %}
+
+IDL fits header
+http://idlastro.gsfc.nasa.gov/contents.html#C5
