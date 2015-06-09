@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Blog
 permalink: /blog/
 ---
   <ul class="post-list">
