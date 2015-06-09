@@ -15,3 +15,5 @@ You can say hello to me on [Douban][douban], [Weibo][weibo], or (possibly)
 [douban]:     http://www.douban.com/people/karlan/
 [weibo]:      http://weibo.com/karlan
 [twitter]:    https://twitter.com/JianweiLyu
+
+{% include disqus.html %}
