@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
---
+---
+
 My name is Jianwei Lyu and I'm an astronomy graduate at Steward Observatory.
 This site records many things I like -- astronomy, star-gazing, painting,
 running, books, movies, traveling and so on. I'm also trying to make plain
