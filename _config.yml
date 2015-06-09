@@ -1,8 +1,8 @@
 # Site settings
-title: My Astro Research
+title:  秋水時至
 email: astroskii@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    This site records (part of) my research. I'm trying to post everyday without excuses. Let's see what will happen ...
+    This site records (part of) my research and other interesting stuffs. Feel free to contact me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://karlan.github.io/" # the base hostname & protocol for your site
 # twitter_username: JianweiLyu
