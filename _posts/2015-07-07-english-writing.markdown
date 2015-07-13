@@ -28,7 +28,7 @@ As an English learner for over 12 years, I still make huge amounts of mistakes. 
 
 * avoid using the same word mutiple times but with different meanings
 
-* In American and Canadian English, fit is often uninflected in the the past tense and as a past participle. Outside North America, writers typically favor fitted for these uses, check http://grammarist.com/usage/fit-fitted/
+* In American and Canadian English, fit is often uninflected in the the past tense and as a past participle. Outside North America, writers typically favor fitted for these uses, check [here][fit-fitted].
 
 
 * there is/are 大部分情况下没有用
@@ -214,9 +214,12 @@ As an English learner for over 12 years, I still make huge amounts of mistakes. 
 
 * there is a space before the left bracket (
 
+* [bulleted lists][bulleted lists] 
 
 
-*  standard deviation and standard error
-    http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm
 
+*  [standard deviation and standard error][stdev]
 
+[bulleted lists]:http://www.dailywritingtips.com/bulleted-lists/
+[stdev]:http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm
+[fit-fitted]:http://grammarist.com/usage/fit-fitted/
