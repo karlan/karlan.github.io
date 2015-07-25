@@ -11,11 +11,11 @@ permalink: /links/
 
 ### For research
 
-* [ADS][ads] | [ADS by volume/page][adsv] | [astro-ph new][astro-ph new] | [astro-ph][astro-ph]  
+* [ADS][ads] ☆ [ADS by volume/page][adsv] ☆ [astro-ph new][astro-ph new] ☆ [astro-ph][astro-ph]  
 
-* [NED][ned] | [HST][hst] | [SDSS][sdss] | [IRSA][irsa] | [GALEX][galex]
+* [NED][ned] ☆ [HST][hst] ☆ [SDSS][sdss] ☆ [IRSA][irsa] ☆ [GALEX][galex]
 
-* [IPAC finder chart][ipac-find] | [Visibility][staralt] | [Standard Star][st-star] | [Telluric Star][te-star]
+* [IPAC finder chart][ipac-find] ☆ [Visibility][staralt] ☆ [Standard Star][st-star] ☆ [Telluric Star][te-star]
 
 
 [astro-ph new]:http://arxiv.org/list/astro-ph/new
@@ -38,13 +38,13 @@ permalink: /links/
 
 * [astrobetter wiki][astrobetter-wiki]
 
-* [python reference][python-ref] | [C/C++ reference][c-ref] | [Git Reference][git-ref]
+* [python reference][python-ref] ☆ [C/C++ reference][c-ref] ☆ [Git Reference][git-ref]
 
-* [idlastro][idlastro] | [Coyote's Tips][coyote-tips] | [Astropython][astropython]
+* [idlastro][idlastro] ☆ [Coyote's Tips][coyote-tips] ☆ [Astropython][astropython]
 
-* [tex catalog][tex] | [LaTeX wiki][wiki-latex]
+* [tex catalog][tex] ☆ [LaTeX wiki][wiki-latex]
 
-* [Feynman's Lecture][feynman] | [AIP oral history][aip-oral]
+* [Feynman's Lecture][feynman] ☆ [AIP oral history][aip-oral]
 
 * [汉典][han]
 
