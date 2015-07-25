@@ -38,7 +38,6 @@ permalink: /links/
 
 * [astrobetter wiki][astrobetter-wiki]
 
-
 * [python reference][python-ref] | [C/C++ reference][c-ref] | [Git Reference][git-ref]
 
 * [idlastro][idlastro] | [Coyote's Tips][coyote-tips] | [Astropython][astropython]
@@ -49,7 +48,7 @@ permalink: /links/
 
 * [汉典][han]
 
-[astrobetter-wiki][http://www.astrobetter.com/wiki/Wiki+Home]
+[astrobetter-wiki]:http://www.astrobetter.com/wiki/Wiki+Home
 
 [feynman]:http://feynmanlectures.caltech.edu/
 [aip-oral]:https://www.aip.org/history/ohilist/
@@ -62,7 +61,7 @@ permalink: /links/
 [git-ref]:http://gitref.org/
 
 [idlastro]:http://idlastro.gsfc.nasa.gov/contents.html
-[coyoto-tips]:http://www.idlcoyote.com/documents/tips.php
+[coyote-tips]:http://www.idlcoyote.com/documents/tips.php
 [astropython]:http://www.astropython.org/
 
 [han]:http://www.zdic.net/http://www.zdic.net/
