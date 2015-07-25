@@ -8,13 +8,14 @@ permalink: /links/
 [深齋][etymologies]
 
 ## For research
-[astro-ph new][astro-ph new]  ~ [astro-ph][astro-ph]  [ADS][ads] [ADS by volume/page][adsv]
+[ADS][ads] | [ADS by volume/page][adsv] | [astro-ph new][astro-ph new] | [astro-ph][astro-ph]  
 
-[NED][ned] [HST][hst] [SDSS][sdss] [IRSA][irsa] [GALEX][galex]
+[NED][ned] | [HST][hst] | [SDSS][sdss] | [IRSA][irsa] | [GALEX][galex]
 
-[IPAC finder chart][ipac-find] [Visibility][staralt] [Standard Star][st-star] [Telluric Star][te-star]
+[IPAC finder chart][ipac-find] | [Visibility][staralt] | [Standard Star][st-star] | [Telluric Star][te-star]
 
 [etymologies]:http://www.etymologise.com/
+
 [astro-ph new]:http://arxiv.org/list/astro-ph/new
 [astro-ph]:http://arxiv.org/find/astro-ph
 [ads]:http://adsabs.harvard.edu/abstract_service.html
@@ -30,3 +31,41 @@ permalink: /links/
 [staralt]:http://catserver.ing.iac.es/staralt/
 [st-star]:http://www.eso.org/sci/observing/tools/standards/spectra/okestandards.html
 [te-star]:http://www.gemini.edu/sciops/instruments/nearir-resources/spectroscopic-standards-/telluric-standard-search
+
+## Reference
+
+[astrobetter wiki][astrobetter-wiki]
+
+[Feynman's Lecture][feynman] | [AIP oral history][aip-oral]
+
+[tex catalog][tex] | [LaTeX wiki][wiki-latex]
+
+[python reference][python-ref] | [C/C++ reference][c-ref] | [Git Reference][git-ref]
+
+[idlastro][idlastro] | [Coyote's Tips][coyote-tips] | [Astropython][astropython]
+
+[汉典][han]
+
+[astrobetter wiki][http://www.astrobetter.com/wiki/Wiki+Home]
+
+[feynman]:http://feynmanlectures.caltech.edu/
+[aip-oral]:https://www.aip.org/history/ohilist/
+
+
+[tex]:http://texcatalogue.ctan.org/bytopic.html#classes
+[wiki-latex]:https://en.wikibooks.org/wiki/LaTeX
+[python-ref]:https://docs.python.org/2/reference/
+[c-ref]:http://en.cppreference.com/w/
+[git-ref]:http://gitref.org/
+
+[idlastro]:http://idlastro.gsfc.nasa.gov/contents.html
+[coyoto-tips]:http://www.idlcoyote.com/documents/tips.php
+[astropython]:http://www.astropython.org/
+
+[han]:http://www.zdic.net/http://www.zdic.net/
+
+## Fun
+
+[TWAN][twan]
+
+[twan]:http://www.twanight.org/newTWAN/index.asp
