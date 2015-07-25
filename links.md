@@ -15,7 +15,10 @@ permalink: /links/
 
 * [NED][ned] ☆ [HST][hst] ☆ [SDSS][sdss] ☆ [IRSA][irsa] ☆ [GALEX][galex]
 
+* Call for proposals: [NOAO][noao] ☆ [HST][hst] ☆ [Steward][steward] ☆ [IRAM][iram] ☆ [ALMA][alma] ☆ [NRAO][nrao]
+
 * [IPAC finder chart][ipac-find] ☆ [Visibility][staralt] ☆ [Standard Star][st-star] ☆ [Telluric Star][te-star]
+
 
 
 [astro-ph new]:http://arxiv.org/list/astro-ph/new
@@ -28,6 +31,14 @@ permalink: /links/
 [irsa]:http://irsa.ipac.caltech.edu/frontpage/
 [galex]:http://galex.stsci.edu/GalexView/
 [sdss]:http://skyserver.sdss.org/dr12/en/home.aspx
+
+[noao]:http://ast.noao.edu/observing/proposal-info
+[hst]:http://www.stsci.edu/hst/proposing/
+[steward]:http://ircamera.as.arizona.edu/TAC/index.htm
+[iram]:http://www.iram-institute.org/EN/content-page-169-7-57-169-0-0.html
+[alma]:https://almascience.nrao.edu/proposing/call-for-proposals
+[nrao]:https://science.nrao.edu/observing/call-for-proposals
+
 
 [ipac-find]:http://irsa.ipac.caltech.edu/applications/FinderChart/
 [staralt]:http://catserver.ing.iac.es/staralt/
