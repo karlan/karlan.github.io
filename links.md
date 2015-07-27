@@ -4,6 +4,7 @@ title: Links
 permalink: /links/
 ---
 
+why?
 
 [深齋][etymologies]
 
