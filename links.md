@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-why?
+why? confused ...
 
 [深齋][etymologies]
 
