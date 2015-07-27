@@ -4,7 +4,9 @@ title: Links
 permalink: /links/
 ---
 
-why? confused ... AVAST!
+why? confused ... AVAST! 
+
+Is it OK now?
 
 [深齋][etymologies]
 
