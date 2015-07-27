@@ -62,6 +62,10 @@ Is it OK now?
 
 * [汉典][han]
 
+* [color picker][color]
+
+
+
 [astrobetter-wiki]:http://www.astrobetter.com/wiki/Wiki+Home
 
 [feynman]:http://feynmanlectures.caltech.edu/
@@ -80,9 +84,12 @@ Is it OK now?
 
 [han]:http://www.zdic.net/http://www.zdic.net/
 
+[color]:http://coolors.co/app
+
 ### Fun
 
 * [TWAN][twan]
+* 
 
 [twan]:http://www.twanight.org/newTWAN/index.asp
 
