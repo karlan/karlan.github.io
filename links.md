@@ -62,12 +62,12 @@ permalink: /links/
 [astrobetter-wiki]:http://www.astrobetter.com/wiki/Wiki+Home
 
 [feynman]:http://feynmanlectures.caltech.edu/
-[aip-oral]:https://www.aip.org/history/ohilist/
+[aip-oral]:https://www.aip.org/history-programs/niels-bohr-library/oral-histories
 
 
 [tex]:http://texcatalogue.ctan.org/bytopic.html#classes
 [wiki-latex]:https://en.wikibooks.org/wiki/LaTeX
-[python-ref]:https://docs.python.org/2/reference/
+[python-ref]:https://docs.python.org/2/library/index.html
 [c-ref]:http://en.cppreference.com/w/
 [git-ref]:http://gitref.org/
 
