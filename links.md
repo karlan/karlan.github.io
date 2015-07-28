@@ -4,11 +4,8 @@ title: Links
 permalink: /links/
 ---
 
-why? confused ... AVAST! 
 
-Is it OK now?
-
-[深齋][etymologies]
+* [深齋][etymologies]
 
 [etymologies]:http://www.etymologise.com/
 
@@ -62,6 +59,8 @@ Is it OK now?
 
 * [汉典][han]
 
+* [etymology dict][etymo]
+
 * [color picker][color]
 
 
@@ -83,6 +82,8 @@ Is it OK now?
 [astropython]:http://www.astropython.org/
 
 [han]:http://www.zdic.net/http://www.zdic.net/
+
+[etymo]:http://www.etymonline.com/
 
 [color]:http://coolors.co/app
 
