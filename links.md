@@ -59,6 +59,8 @@ permalink: /links/
 
 * [汉典][han]
 
+* [WolframAlpha][alpha]
+
 * [etymology dict][etymo]
 
 * [color picker][color]
@@ -82,6 +84,8 @@ permalink: /links/
 [astropython]:http://www.astropython.org/
 
 [han]:http://www.zdic.net/http://www.zdic.net/
+
+[alpha]:http://www.wolframalpha.com/
 
 [etymo]:http://www.etymonline.com/
 
