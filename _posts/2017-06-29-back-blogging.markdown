@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Pattern of Writing a Paper"
+title:  "The Mood Pattern for Writing a Paper"
 date:   2017-06-28 16:00:00
 categories: discussion
 ---
